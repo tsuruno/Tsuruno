@@ -2,8 +2,9 @@
   
 > **Developer & Graphic Designer & Producer**.
   
-![](https://raw.githubusercontent.com/Tsuruno/HansRobo/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsuruno&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsuruno&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tsuruno&theme=monokai)
 ![Status](https://github-readme-stats.vercel.app/api?username=Tsuruno&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 
 </div>
